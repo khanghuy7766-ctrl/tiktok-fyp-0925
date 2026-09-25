@@ -1,0 +1,11 @@
+﻿Custom rabbit and wolf companions are built from the same shared sphere
+geometry and soft matte materials in src/main.jsx. Their colors, proportions,
+ears and muzzles distinguish each animal while keeping a simple cute style.
+
+Mid-Autumn lantern
+“red lantern” by Sophie Kim, Poly Pizza model 7PZhxLFiGc2.
+https://poly.pizza/m/7PZhxLFiGc2
+License: Creative Commons Attribution (CC-BY).
+
+The lantern GLB is bundled locally. No external model requests are made when
+the experience runs.
